@@ -1,0 +1,132 @@
+BODY {
+scrollbar-face-color:#8C0000;
+scrollbar-highlight-color:#A80000;
+scrollbar-3dlight-color:#790000;
+scrollbar-darkshadow-color:#790000;
+scrollbar-shadow-color:#A80000;
+scrollbar-arrow-color:#000000;
+scrollbar-track-color:#000000;
+}
+
+INPUT {
+BORDER-RIGHT: #FF0000 1px solid; 
+BORDER-TOP: #FF0000 1px solid; 
+FONT-SIZE: 11px; 
+BORDER-LEFT: #FF0000 1px solid; 
+COLOR: #ffffff; 
+BORDER-BOTTOM: #FF0000 1px solid; 
+FONT-FAMILY: monospace; 
+BACKGROUND-COLOR: #000000
+}
+
+TEXTAREA {
+BORDER-RIGHT: #FF0000 1px solid; 
+BORDER-TOP: #FF0000 1px solid; 
+FONT-SIZE: 11px; 
+BORDER-LEFT: #FF0000 1px solid; 
+COLOR: #ffffff; 
+BORDER-BOTTOM: #FF0000 1px solid; 
+FONT-FAMILY: monospace; 
+BACKGROUND-COLOR: #000000
+}
+
+A:link {
+COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+
+A:active {
+COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+
+A:visited {
+COLOR: #FF0000; TEXT-DECORATION: none
+}
+
+A:hover {
+COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+
+.menu A:link {
+COLOR: #ffffff; TEXT-DECORATION: none
+}
+
+.menu A:active {
+COLOR: #ffffff; TEXT-DECORATION: none
+; filter: Xray
+}
+
+.menu A:visited {
+COLOR: #ffffff; TEXT-DECORATION: none
+}
+
+.menu A:hover {
+COLOR: #c0c0c0; TEXT-DECORATION: none
+}
+
+.content {
+COLOR: #ffffff
+; font-family: Verdana, Arial, Helvetica, sans-serif
+}
+
+.boxtitle {
+FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; TEXT-DECORATION: none
+; font-family: Verdana, Arial, Helvetica, sans-serif
+}
+
+.boxcontent {
+FONT-SIZE: 11px; COLOR: #ff0000
+; font-family: Verdana, Arial, Helvetica, sans-serif
+; text-decoration: none
+}
+
+.option {
+FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; TEXT-DECORATION: none
+; font-family: Verdana, Arial, Helvetica, sans-serif
+}
+
+.tiny {
+FONT-SIZE: 10pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+
+.footmsg {
+FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: #cccccc; TEXT-DECORATION: none
+; font-family: Verdana, Arial, Helvetica, sans-serif
+}
+
+.footmsg_l {
+FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: #cccccc; TEXT-DECORATION: underline
+; font-family: Verdana, Arial, Helvetica, sans-serif
+}
+
+.box {
+BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 9px; BORDER-LEFT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid
+; font-family: Verdana, Arial, Helvetica, sans-serif
+}
+
+.blocktitle {
+FONT-SIZE: 9px; COLOR: #ffffff
+; font-family: Verdana, Arial, Helvetica, sans-serif
+}
+
+.menusearchbox {
+BORDER-RIGHT: #000000 0px; BORDER-TOP: #000000 0px; FONT-SIZE: 11px; BORDER-LEFT: #000000 0px; COLOR: #ffffff; BORDER-BOTTOM: #000000 0px; FONT-FAMILY: monospace; BACKGROUND-COLOR: #000000
+}
+
+TD {
+FONT-SIZE: 10px
+}
+
+SELECT {
+BORDER-RIGHT: #ffffff 1px solid; 
+BORDER-TOP: #ffffff 1px solid; 
+FONT-SIZE: 10px; 
+BORDER-LEFT: #ffffff 1px solid; 
+COLOR: #ffffff; 
+BORDER-BOTTOM: #ffffff 1px solid; 
+FONT-FAMILY: monospace; 
+BACKGROUND-COLOR: #000000
+}
+
+HR {
+COLOR: #FFFFFF; HEIGHT: 1px
+}
